@@ -1,3 +1,4 @@
-## Welcome to this site
-This site is still in progress, please come back later.<br />
+## I'm Unnati Thakkar 
+## I'm currently a senior majoring in Computer Science here at Depaul University.
+.<br />
 Thanks!<br />
