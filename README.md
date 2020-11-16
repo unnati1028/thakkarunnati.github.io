@@ -8,7 +8,7 @@
 
 <p>
 <a href="https://www.github.com/unnati1028">
-<img border="0" alt="githublogo" src="file:///C:/Users/Unnati/OneDrive/Pictures/New%20folder/github.png" width="300" height="300">
+<img border="0" alt="" src="file:///C:/Users/Unnati/Downloads/github.webp" width="80" height="70">
 </a>
 </p>
 
