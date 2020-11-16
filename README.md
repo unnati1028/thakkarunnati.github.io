@@ -5,16 +5,11 @@
 <p>[![github](file:///C:/Users/Unnati/OneDrive/Pictures/New%20folder/github.png)(http://www.github.com/unnati1028)]</p>
 <p>[![github](file:///C:/Users/Unnati/OneDrive/Pictures/New%20folder/github.png)[2]
 [2]: http://www.github.com/unnati1028 </p>
-<!DOCTYPE html>
-<html>
-<body>
 
 <p>
-An image as a link: <a href="https://www.github.com/unnati1028">
-<img border="0" alt="githublogo" src="file:///C:/Users/Unnati/OneDrive/Pictures/New%20folder/github.png" width="100" height="100">
+<a href="https://www.github.com/unnati1028">
+<img border="0" alt="githublogo" src="file:///C:/Users/Unnati/OneDrive/Pictures/New%20folder/github.png" width="300" height="300">
 </a>
 </p>
 
-</body>
-</html>
 
