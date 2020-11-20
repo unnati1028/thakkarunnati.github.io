@@ -8,7 +8,7 @@ Currently working on fundraisingATM webpage
 <a href="http://www.fundraisingatm.com/">
 <img border="0" alt="" src="unnati1028.github.io/workex1.png" width="400" height="450" align="right">
 </a>
-
+</p>
 <p>
 <a href="https://www.linkedin.com/in/unnati-t-7b2953135/">
 <img border="0" alt="" src="unnati1028.github.io/linkedIN.png" width="80" height="80" align="right">
