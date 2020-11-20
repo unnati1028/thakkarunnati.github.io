@@ -6,7 +6,7 @@ A passionate Software Developer 😍 having an experience of building Web and Mo
 <p> 
 <br>Currently working on fundraisingATM webpage
 <br><a href="http://www.fundraisingatm.com/">
-<img border="0" alt="" src="unnati1028.github.io/workex1.png" width="1000" height="800">
+<img border="0" alt="" src="unnati1028.github.io/workex1.png" width="1000" height="550">
 </a>
 </p>
 <p>
