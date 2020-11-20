@@ -2,9 +2,8 @@
 <body>                                         
 <p>I'm Unnati Thakkar 😊. I'm currently a senior majoring in Computer Science with a concentration in Software developement here at Depaul University. I'm a full stack developer 🚀 passionate towards building applications that are scalable and maintainable with beautifully crafted code. 
 A passionate Software Developer 😍 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks. My academic background in Computer Science, valuable experience gained through internships, as well as my ability to code in various programming languages and knowing of multiple softwares make me an excellent Software Developer. </p>
-<p>
+
 <button type="button" onclick=" <a href="mailto:unnati2810@gmail.com">"">Contact me!</button>
-</p>
 
 <p>
 <a href="https://www.linkedin.com/in/unnati-t-7b2953135/">
