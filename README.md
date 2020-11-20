@@ -4,8 +4,8 @@
 A passionate Software Developer 😍 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks. My academic background in Computer Science, valuable experience gained through internships, as well as my ability to code in various programming languages and knowing of multiple softwares make me an excellent Software Developer. </p>
 <a href="mailto:unnati2810@gmail.com"> Click to contact me</a>
 <p> 
-Currently working on fundraisingATM webpage
-<a href="http://www.fundraisingatm.com/">
+<br>Currently working on fundraisingATM webpage</br>
+<br><a href="http://www.fundraisingatm.com/"></br>
 <img border="0" alt="" src="unnati1028.github.io/workex1.png" width="400" height="450">
 </a>
 </p>
