@@ -11,4 +11,7 @@ A passionate Software Developer having an experience of building Web and Mobile 
 <a href="unnati1028.github.io/Resume.pdf">
 <img border="0" alt="" src="unnati1028.github.io/resume-icon-png-19036.png" width="80" height="80" align="right">
 </a>
+ <a href="mailto:unnati2810@gmail.com">
+ <img border="0" alt="" src="unnati1028.github.io/email.png" width="80" height="80" align="right">
+ </a>
 </p>
