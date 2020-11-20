@@ -4,11 +4,63 @@
 A passionate Software Developer 😍 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks. My academic background in Computer Science, valuable experience gained through internships, as well as my ability to code in various programming languages and knowing of multiple softwares make me an excellent Software Developer. </p>
 <a href="mailto:unnati2810@gmail.com"> Click to contact me</a>
 <p> 
-<br>Currently working on fundraisingATM webpage
+<br>Currently working at fundraisingATM. It's a online fundraising company where everyone can organize a fundraising online through our website. Currently I am still working to build up the site to perfection using PHP and MySql. 
+<br>Click on the image to learn more about the company!
 <br><a href="http://www.fundraisingatm.com/">
 <img border="0" alt="" src="unnati1028.github.io/workex1.png" width="1000" height="550">
 </a>
 </p>
+  <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #4CAF50;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
+</style>
+</head>
+<body>
+
+<h1>My Skills</h1>
+
+<p>HTML</p>
+<div class="container">
+  <div class="skills html">90%</div>
+</div>
+
+<p>CSS</p>
+<div class="container">
+  <div class="skills css">80%</div>
+</div>
+
+<p>JavaScript</p>
+<div class="container">
+  <div class="skills js">65%</div>
+</div>
+
+<p>PHP</p>
+<div class="container">
+  <div class="skills php">60%</div>
+</div>
+
+</body>
+</html>
+
 <p>
 <a href="https://www.linkedin.com/in/unnati-t-7b2953135/">
 <img border="0" alt="" src="unnati1028.github.io/linkedIN.png" width="80" height="80" align="right">
