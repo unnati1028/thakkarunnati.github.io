@@ -31,7 +31,9 @@ A passionate Software Developer 😍 having an experience of building Web and Mo
 .phython {width: 90%; background-color: #4CAF50;}
 .java {width: 80%; background-color: #2196F3;}
 .c++ {width: 65%; background-color: #f44336;}
-.php {width: 60%; background-color: #808080;}
+.php {width: 70%; background-color: #808080;}
+.sql {width: 70%; background-color: #33ECFF;}
+.r {width: 80%; background-color: #FF33FF;}
 </style>
 </head>
 <body>
@@ -55,7 +57,17 @@ A passionate Software Developer 😍 having an experience of building Web and Mo
 
 <p>PHP</p>
 <div class="container">
-  <div class="skills php">60%</div>
+  <div class="skills php">70%</div>
+</div>
+
+<p>SQL</p>
+<div class="container">
+  <div class="skills sql">70%</div>
+</div>
+
+<p>R</p>
+<div class="container">
+  <div class="skills r">80%</div>
 </div>
 
 </body>
