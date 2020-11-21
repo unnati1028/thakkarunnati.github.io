@@ -6,11 +6,12 @@ A passionate Software Developer 😍 having an experience of building Web and Mo
 <a href="mailto:unnati2810@gmail.com"> Click to contact me</a>
 <p> 
 <h1>Recent Work</h1>
-<br>Currently working at fundraisingATM. It's a online fundraising company where everyone can organize a fundraising online through our website. Currently I am still working to build up the site to perfection using PHP and MySql. 
+<br>Currently working at fundraisingATM. It's a online fundraising company where everyone can organize a fundraising online through our website. I am working as a backend developer. Currently I am still working to build up the site to perfection using PHP and MySql. 
 <br>Click on the image to learn more about the company!
 <br><a href="http://www.fundraisingatm.com/">
 <img border="0" alt="" src="unnati1028.github.io/workex1.png" width="1000" height="450">
 </a>
+<br>I love working for my school. I am also currently working with Depaul University's Classrom Tech. If a professor needs help regarding technology we try to solve the issues for them, so they can keep the class going. We also give one-on-one and group classroom technology orientations throughout the year. I was a transfer student at DePaul and knowing professor as well as going around campus and knowing different areas, helped me a lot to get adjusted to a new school.
 </p>
   <html>
 <head>
