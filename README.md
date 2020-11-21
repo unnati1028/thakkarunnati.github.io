@@ -31,31 +31,31 @@ A passionate Software Developer 😍 having an experience of building Web and Mo
 Phython {width: 90%; background-color: #4CAF50;}
 Java {width: 80%; background-color: #2196F3;}
 C++ {width: 65%; background-color: #f44336;}
-.php {width: 80%; background-color: #808080;}
+PHP {width: 60%; background-color: #808080;}
 </style>
 </head>
 <body>
 
 <h1>My Skills</h1>
 
-<p>HTML</p>
+<p>Phython</p>
 <div class="container">
-  <div class="skills html">90%</div>
+  <div class="skills phython">90%</div>
 </div>
 
-<p>CSS</p>
+<p>Java</p>
 <div class="container">
-  <div class="skills css">80%</div>
+  <div class="skills java">80%</div>
 </div>
 
-<p>JavaScript</p>
+<p>C++</p>
 <div class="container">
-  <div class="skills js">65%</div>
+  <div class="skills c++">65%</div>
 </div>
 
 <p>PHP</p>
 <div class="container">
-  <div class="skills php">80%</div>
+  <div class="skills php">60%</div>
 </div>
 
 </body>
