@@ -28,10 +28,10 @@ A passionate Software Developer 😍 having an experience of building Web and Mo
   color: white;
 }
 
-Phython {width: 90%; background-color: #4CAF50;}
-Java {width: 80%; background-color: #2196F3;}
-C++ {width: 65%; background-color: #f44336;}
-PHP {width: 60%; background-color: #808080;}
+.phython {width: 90%; background-color: #4CAF50;}
+.java {width: 80%; background-color: #2196F3;}
+.c++ {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
 </style>
 </head>
 <body>
