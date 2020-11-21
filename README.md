@@ -9,7 +9,7 @@ A passionate Software Developer 😍 having an experience of building Web and Mo
 <br>Currently working at fundraisingATM. It's a online fundraising company where everyone can organize a fundraising online through our website. Currently I am still working to build up the site to perfection using PHP and MySql. 
 <br>Click on the image to learn more about the company!
 <br><a href="http://www.fundraisingatm.com/">
-<img border="0" alt="" src="unnati1028.github.io/workex1.png" width="1000" height="550">
+<img border="0" alt="" src="unnati1028.github.io/workex1.png" width="1000" height="450">
 </a>
 </p>
   <html>
