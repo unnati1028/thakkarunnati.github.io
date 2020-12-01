@@ -31,7 +31,7 @@ A passionate Software Developer 😍 having an experience of building Web and Mo
   color: white;
 }
 
-.phython {width: 90%; background-color: #4CAF50;}
+.python {width: 90%; background-color: #4CAF50;}
 .java {width: 80%; background-color: #2196F3;}
 .c {width: 65%; background-color: #f44336;}
 .php {width: 70%; background-color: #808080;}
@@ -46,7 +46,7 @@ A passionate Software Developer 😍 having an experience of building Web and Mo
 
 <h1>My Skills</h1>
 
-<p>Phython</p>
+<p>Python</p>
 <div class="container">
   <div class="skills phython">90%</div>
 </div>
